@@ -1,0 +1,9 @@
+# Model files
+*.pt
+*.npy
+*.json
+*.pickle
+*.model
+
+.env
+*.png
